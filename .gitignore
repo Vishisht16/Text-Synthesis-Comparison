@@ -1,0 +1,46 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.dylib
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv/
+
+# Model Checkpoints
+*.h5
+*.pkl
+*.pt
+*.ckpt
+
+# Data files (if large, you may want to use Git LFS for this)
+*.csv
+*.tsv
+*.json
+*.pkl
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other files to ignore
+*.dat
+*.bak
+*.swp
